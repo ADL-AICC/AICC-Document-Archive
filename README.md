@@ -17,7 +17,7 @@ The following is an historical archive of AICC documents provided for reference 
 - [DELS002 - Aviation Industry Metadata Description]()
 
 **Archive of AICC documents (and complete version history)**
-- All documents and drafts
+- All available documents and drafts
 
 **Test Software and Examples**
 - Archive of AICC/CMI Test Suite Software and Sample Content
