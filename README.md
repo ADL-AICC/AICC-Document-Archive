@@ -12,9 +12,9 @@ The following is an historical archive of AICC documents provided for reference 
 **Most Commonly Referenced AICC Documents (most recent versions)**
 - [CMI001 - AICC/CMI Guidelines For Interoperability](https://github.com/ADL-AICC/AICC-Document-Archive/releases/tag/cmi001v4)
 - [CMI010 - Package Exchange Notification Services](https://github.com/ADL-AICC/AICC-Document-Archive/releases/tag/cmi010v1a)
-- CMI012 - AICC Packaging Specification
-- CMI013 - XML for CMI Communication
-- DELS002 - Aviation Industry Metadata Description
+- [CMI012 - AICC Packaging Specification](https://github.com/ADL-AICC/AICC-Document-Archive/releases/tag/cmi012v1)
+- [CMI013 - XML for CMI Communication]
+- [DELS002 - Aviation Industry Metadata Description]
 
 **Archive of AICC publications (and version history)**
 - All publications and drafts
