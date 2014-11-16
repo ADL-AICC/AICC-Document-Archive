@@ -16,7 +16,7 @@ The following is an historical archive of AICC documents provided for reference 
 - [CMI013 - XML for CMI Communication](https://github.com/ADL-AICC/AICC-Document-Archive/releases/tag/cmi013v1)
 - [DELS002 - Aviation Industry Metadata Description]()
 
-**Archive of AICC publications (and version history)**
+**Archive of AICC publications (and complete version history)**
 - All publications and drafts
 
 **Test Software and Examples**
