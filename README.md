@@ -7,7 +7,7 @@ It created learning technology specifications used widely in the eLearning indus
 
 Prior to its dissolution, the AICC transfered all its documents to the ADL for continued public access.
 
-The following is an historical archive of AICC documents. 
+The following is an historical archive of AICC documents provided for reference purposes only.  _(Note that these documents are no longer maintained/updated.)_
 
 **Most Commonly Referenced AICC Documents (most recent versions)**
 - CMI001 - AICC/CMI Guidelines For Interoperability
@@ -16,7 +16,7 @@ The following is an historical archive of AICC documents.
 **Complete Archive of all AICC publications (and version history)**
 - All publications and drafts
 
-**Complete Archive of all AICC publications (and version history)**
+**Test Software and Examples**
 - Archive of AICC/CMI Test Suite Software and Sample Content
 - Archive of PENS Test Suite Software and Sample Content
 
