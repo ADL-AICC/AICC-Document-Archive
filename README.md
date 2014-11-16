@@ -10,7 +10,7 @@ Prior to its dissolution, the AICC transfered all its documents to the ADL to en
 The following is an historical archive of AICC documents provided for reference purposes only.  _(Note that these documents are no longer maintained/updated.)_
 
 **Most Commonly Referenced AICC Documents (most recent versions)**
-- [CMI001 - AICC/CMI Guidelines For Interoperability](https://github.com/ADL-AICC/AICC-Document-Archive/releases/download/cmi001v4)
+- [CMI001 - AICC/CMI Guidelines For Interoperability](https://github.com/ADL-AICC/AICC-Document-Archive/releases/tag/cmi001v4)
 - CMI010 - Package Exchange Notification Services
 - CMI012 - AICC Packaging Specification
 - CMI013 - XML for CMI Communication
