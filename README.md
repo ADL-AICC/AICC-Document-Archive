@@ -12,8 +12,9 @@ The following is an historical archive of AICC documents provided for reference 
 **Most Commonly Referenced AICC Documents (most recent versions)**
 - CMI001 - AICC/CMI Guidelines For Interoperability
 - CMI010 - Package Exchange Notification Services
+- DELS002 - Aviation Industry Metadata Description
 
-**Complete Archive of all AICC publications (and version history)**
+**Archive of AICC publications (and version history)**
 - All publications and drafts
 
 **Test Software and Examples**
