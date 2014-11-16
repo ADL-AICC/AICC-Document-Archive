@@ -1,4 +1,4 @@
-<p align=center><img src="https://cloud.githubusercontent.com/assets/1656316/5063091/c0cc17b6-6d8d-11e4-92db-261241727abd.jpg" height="25%" width="25%"></p> 
+<img src="https://cloud.githubusercontent.com/assets/1656316/5063091/c0cc17b6-6d8d-11e4-92db-261241727abd.jpg" height="25%" width="25%"> 
 
 AICC Document Archive
 =====================
