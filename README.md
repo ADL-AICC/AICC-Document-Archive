@@ -8,8 +8,8 @@ It created learning technology specifications used widely in the eLearning indus
 Prior to its dissolution, the AICC transfered all its documents to the ADL for continued public access.
 
 The following is an historical archive of AICC documents. 
--Most Commonly Referenced AICC Documents (most recent versions) (see release)
--Complete Archive of all AICC publications (and version history)
+- Most Commonly Referenced AICC Documents (most recent versions) (see release)
+- Complete Archive of all AICC publications (and version history)
 
 
 
