@@ -7,7 +7,7 @@ The Aviation Industry Computer-Based Training Committee (AICC) existed from 1988
 
 It created learning technology specifications used widely in the eLearning industry (inside and outside of aviation).  
 
-Prior to its dissolution, the AICC transfered all its documents to the ADL to ensure continued access for the public.
+Prior to its dissolution, the [AICC transfered all its documents to the ADL](https://github.com/ADL-AICC/AICC-Document-Archive/blob/master/Transfer_of_Copyright.md) to ensure continued access for the public.
 
 The following is an historical archive of AICC documents provided for reference purposes only.  _(Note that these documents are no longer maintained/updated.)_
 
