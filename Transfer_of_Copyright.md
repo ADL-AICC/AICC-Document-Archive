@@ -13,4 +13,4 @@ IN WITNESS THEREOF, Assignor has duly executed this Agreement.
 
 **AICC Administrator**
 
-Date: <u>December 7, 2014</u>
+**Date: December 7, 2014**
