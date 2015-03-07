@@ -23,7 +23,7 @@ The following is an historical archive of AICC documents provided for reference 
 
 **Test Software and Examples**
 - [Archive of AICC/CMI Test Suite Software](https://github.com/ADL-AICC/AICC-Document-Archive/releases/tag/CMI-TestSuite)
-- [Archive of AICC/CMI Sample Lesson]
+- [Archive of AICC Sample Lesson](https://github.com/ADL-AICC/AICC-Document-Archive/releases/tag/SampleLesson)
 - [Archive of PENS Test Suite Software and Sample Content](https://github.com/ADL-AICC/AICC-Document-Archive/releases/tag/PENS-TestSuite)
 
 **Other AICC Historical References**
